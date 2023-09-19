@@ -1,5 +1,5 @@
 # dl_prac
-practical ML homeworks from the university
+practical ML homework from the university
 
 ВМК МГУ, кафдера ММП, 6 семестр обучения. Задания, выполнение на курсе "Технологический практикум". Работы посвящены глубокому обучению. Темы работ:
 
